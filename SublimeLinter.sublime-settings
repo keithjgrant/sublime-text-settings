@@ -1,0 +1,6 @@
+{
+    "sublimelinter_executable_map":
+    {
+        "CoffeeScript": "/usr/local/bin/coffeelint"
+    }
+}
