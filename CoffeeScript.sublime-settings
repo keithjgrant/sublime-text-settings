@@ -1,4 +1,9 @@
 {
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true
+  "extensions":
+  [
+    "coffee"
+  ],
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "compileOnSave": false
 }
