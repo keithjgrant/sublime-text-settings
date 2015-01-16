@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+${1:_handleSuccess}: (data, textStatus, jqXHR) =>
+  ${2:# success code}
+
+${3:_handleFailure}: (jqXHR, textStatus, errorThrown) ->
+  ${4:# failure code}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>jqXHR</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.coffee,source.cjsx</scope>
+</snippet>
