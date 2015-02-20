@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Better CoffeeScript",
@@ -15,6 +18,7 @@
 		"JsFormat",
 		"JSX",
 		"LESS",
+		"Oceanic Next Color Scheme",
 		"Origami",
 		"Package Control",
 		"ReactJS",
